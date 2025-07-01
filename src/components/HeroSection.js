@@ -5,7 +5,7 @@ export default function HeroSection() {
       <p className="max-w-2xl text-lg text-gray-700 mb-6 leading-relaxed">
         A Data Science Engineering student at MIT, Manipal.
         <br />
-        I'm a coding enthusiast who loves building things with code. From robotics to AI, I’m passionate about solving real-world problems through technology.
+        I'm a coding enthusiast who loves building things with code. From robotics to AI, I'm passionate about solving real-world problems through technology.
       </p>
       <div className="flex space-x-4">
         <a href="/projects" className="bg-blue-600 text-white px-6 py-2 rounded-lg shadow-md hover:bg-blue-700 transition">View Projects</a>
